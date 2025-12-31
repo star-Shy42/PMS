@@ -2,7 +2,7 @@
 
 A comprehensive, AI-powered medical patient management system built with Next.js 15, featuring voice-enabled prescription creation, semantic search, and professional medical workflows.
 
-## 🚀 Features
+## Features
 
 ### Core Functionality
 
@@ -27,7 +27,7 @@ A comprehensive, AI-powered medical patient management system built with Next.js
 - **Professional Printing**: Clean, medical-grade prescription output
 - **Template System**: Standardized prescription formats
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - **Frontend**: Next.js 15, React 19, TypeScript, Tailwind CSS
 - **Backend**: Next.js API Routes, Prisma ORM
@@ -36,7 +36,7 @@ A comprehensive, AI-powered medical patient management system built with Next.js
 - **Authentication**: JWT-based user authentication
 - **Deployment**: Vercel-ready architecture
 
-## 📦 Installation
+## Installation
 
 1. **Clone the repository**
 
@@ -75,7 +75,7 @@ A comprehensive, AI-powered medical patient management system built with Next.js
 
 6. **Open [http://localhost:3000](http://localhost:3000)**
 
-## 🎯 Usage
+## Usage
 
 ### For Doctors
 
@@ -98,7 +98,7 @@ A comprehensive, AI-powered medical patient management system built with Next.js
 - The system understands medical context and finds relevant prescriptions
 - Powered by AI embeddings for accurate, contextual results
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 src/
@@ -120,7 +120,7 @@ src/
     └── api.ts           # Centralized API calls
 ```
 
-## 🔧 API Endpoints
+## API Endpoints
 
 ### Prescriptions
 
@@ -141,7 +141,7 @@ src/
 - `POST /api/ai/prescription-assistance` - Get prescription suggestions
 - `POST /api/ai/predictive-alerts` - Generate health alerts
 
-## 🤖 AI Integration
+## AI Integration
 
 ### Hugging Face Transformers
 
@@ -155,7 +155,7 @@ src/
 - Predictive health alerts
 - Natural language processing for medical queries
 
-## 🎨 UI/UX Features
+## UI/UX Features
 
 - **Responsive Design**: Works on desktop, tablet, and mobile
 - **Dark/Light Theme**: Automatic theme switching
@@ -163,14 +163,14 @@ src/
 - **Print Optimization**: Professional medical document printing
 - **Accessibility**: WCAG compliant with keyboard navigation
 
-## 🔒 Security
+## Security
 
 - **JWT Authentication**: Secure user sessions
 - **Role-based Access**: Doctor and assistant permissions
 - **Data Encryption**: Sensitive medical data protection
 - **API Security**: Rate limiting and input validation
 
-## 🚀 Deployment
+## Deployment
 
 ### Vercel (Recommended)
 
@@ -185,7 +185,7 @@ npm run build
 npm start
 ```
 
-## 📊 Database Schema
+## Database Schema
 
 Key models include:
 
@@ -196,7 +196,7 @@ Key models include:
 - **MedicalRecord**: Patient medical records
 - **Invoice**: Billing and payment records
 
-## 🤝 Contributing
+## Contributing
 
 1. Fork the repository
 2. Create a feature branch (`git checkout -b feature/amazing-feature`)
@@ -204,22 +204,16 @@ Key models include:
 4. Push to the branch (`git push origin feature/amazing-feature`)
 5. Open a Pull Request
 
-## 📝 License
+## License
 
 This project is licensed under the JUST License.
 
-## 🙏 Acknowledgments
+## Acknowledgments
 
 - [Next.js](https://nextjs.org/) - The React framework
 - [Hugging Face](https://huggingface.co/) - AI model hosting
 - [Google Gemini](https://ai.google.dev/) - AI capabilities
 - [Prisma](https://prisma.io/) - Database ORM
 - [Tailwind CSS](https://tailwindcss.com/) - Utility-first CSS
-
-## 📞 Support
-
-For support, email support@medical-pms.com or join our Discord community.
-
----
 
 **Built with ❤️ for healthcare professionals worldwide**
