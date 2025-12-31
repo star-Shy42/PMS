@@ -215,5 +215,3 @@ This project is licensed under the JUST License.
 - [Google Gemini](https://ai.google.dev/) - AI capabilities
 - [Prisma](https://prisma.io/) - Database ORM
 - [Tailwind CSS](https://tailwindcss.com/) - Utility-first CSS
-
-**Built with ❤️ for healthcare professionals worldwide**
